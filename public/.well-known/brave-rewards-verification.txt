@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sapatech.co.ke
+Token: 163cbb7441f466db0fe009bb36a2de37ef89419aa4c0e1c17a822f2b9fd2b701
